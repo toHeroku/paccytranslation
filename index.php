@@ -7,6 +7,7 @@
 	<style >
 		body{
 			background-repeat: no-repeat;
+			background-size: cover;
 		}
 	
 		th{ background-color: grey;
