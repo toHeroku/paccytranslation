@@ -26,7 +26,7 @@ a{
 	</style>
 	<link rel="shortcut icon"  href="icon.jfif">
 </head>
-<body background="mau.jfif">
+<body background="mau.jfif" background-repeat: no-repeat>
 	
 <table width="10%" cellspacing="20" >
 <tr>
