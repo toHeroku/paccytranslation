@@ -26,7 +26,7 @@ a{
 	</style>
 	<link rel="shortcut icon"  href="icon.jfif">
 </head>
-<body background="pacci.jpeg">
+<body background="mau.jpeg">
 	
 <table width="10%" cellspacing="20" >
 <tr>
