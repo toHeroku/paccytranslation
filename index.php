@@ -5,6 +5,9 @@
 
 	<title>Translation</title>
 	<style >
+		body{
+			background-repeat: no-repeat;
+		}
 	
 		th{ background-color: grey;
 			font-family:verdana;
