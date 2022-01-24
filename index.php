@@ -29,7 +29,7 @@ a{
 	</style>
 	<link rel="shortcut icon"  href="icon.jfif">
 </head>
-<body background="mau.jfif" background-repeat: no-repeat>
+<body background="piccc.jpg" background-repeat: no-repeat>
 	
 <table width="10%" cellspacing="20" >
 <tr>
